@@ -1,0 +1,12 @@
+
+Droid: A Resource Suite for AI-Generated Code Detection
+
+@misc{orel2025textttdroidresourcesuiteaigenerated,
+      title={$\texttt{Droid}$: A Resource Suite for AI-Generated Code Detection}, 
+      author={Daniil Orel and Indraneil Paul and Iryna Gurevych and Preslav Nakov},
+      year={2025},
+      eprint={2507.10583},
+      archivePrefix={arXiv},
+      primaryClass={cs.SE},
+      url={https://arxiv.org/abs/2507.10583}, 
+}
